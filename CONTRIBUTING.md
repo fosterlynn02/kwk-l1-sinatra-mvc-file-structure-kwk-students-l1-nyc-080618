@@ -35,4 +35,7 @@ educational content. Everything from fixing typos, to correcting
 out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 45ba9ecd38aca4ca2960f607ae89c6e5eb8d3af4

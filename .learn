@@ -1,8 +1,17 @@
 tags:
   - sinatra
+<<<<<<< HEAD
   - mvc
 languages:
   - ruby
   - sinatra
 resources: 1
 parent_template: git@github.com:learn-co-curriculum/sinatra-mvc-file-structure.git
+=======
+  - controller
+languages:
+  - Ruby
+resources:
+  - 0
+parent_template: git@github.com:learn-co-curriculum/sinatra-from-scratch-readme.git
+>>>>>>> 45ba9ecd38aca4ca2960f607ae89c6e5eb8d3af4
